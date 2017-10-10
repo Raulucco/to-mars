@@ -1,0 +1,17 @@
+{
+  "name": "rocket-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "mocha": "node_modules/mocha/bin/mocha",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^4.0.1",
+    "moment": "^2.19.0",
+    "sinon": "^4.0.1"
+  }
+}
